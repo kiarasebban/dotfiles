@@ -49,3 +49,6 @@
 
 [pull]
   rebase = false
+[user]
+	email = kiara.sebban@eemi.com
+	name = kiara
